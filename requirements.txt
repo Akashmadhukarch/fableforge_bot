@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+diffusers
+transformers
+accelerate
+torch
+reportlab
